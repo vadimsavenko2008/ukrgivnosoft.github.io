@@ -1,0 +1,54 @@
+﻿.page {
+    padding: 5px;
+    margin:0 auto;
+    border-radius: 5px;
+    border-style: double;
+    width: 60%;
+}
+
+.menu {
+    padding: 5px;
+    border-radius: 5px;
+    border-style: double;
+}
+
+.softs {
+    padding: 5px;
+    border-radius: 5px;
+    border-style: double;
+    background-color: #00c3ff;
+}
+
+.soft {
+    padding: 5px;
+    border-radius: 5px;
+    border-style: double;
+    background-color: white;
+}
+
+.about {
+    padding: 5px;
+    border-radius: 5px;
+    border-style: double;
+    margin:0 auto;
+    background-color: #0099ff;
+}
+
+.abouttext {
+    margin:0 auto;
+    color: white;
+}
+
+.lang {
+    padding: 5px;
+    border-radius: 5px;
+    border-style: double;
+    background-color: #0099ff;
+}
+
+.langtext {
+    padding: 5px;
+    border-radius: 5px;
+    border-style: double;
+    color: white;
+}
